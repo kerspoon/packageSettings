@@ -1,0 +1,21 @@
+{
+  "name": "packageSettings",
+  "version": "0.0.0",
+  "description": "Simple Runtime Settings and Config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kerspoon/packageSettings.git"
+  },
+  "keywords": [
+    "settings",
+    "config",
+    "defaults",
+    "configuration"
+  ],
+  "author": "James Brooks",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kerspoon/packageSettings/issues"
+  }
+}
