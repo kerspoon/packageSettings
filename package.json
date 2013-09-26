@@ -1,11 +1,11 @@
 {
   "name": "packagesettings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Runtime Settings and Config",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kerspoon/packageSettings.git"
+    "url": "http://github.com/kerspoon/packageSettings.git"
   },
   "keywords": [
     "settings",
